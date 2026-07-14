@@ -5,7 +5,7 @@ from agents.llm_response_agent import LLMResponseAgent
 from agents.mcp import MCPMessage
 import os
 
-st.set_page_config(page_title="Agentic RAG with MCP")
+st.set_page_config(page_title="RAG Chatbot with MCP")
 st.title("Agentic RAG Chatbot with MCP")
 
 
