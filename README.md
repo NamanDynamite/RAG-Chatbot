@@ -1,4 +1,4 @@
-Agentic RAG Chatbot with MCP
+RAG Chatbot with MCP
 
 A multi-agent Retrieval-Augmented Generation (RAG) chatbot that uses a modular agent architecture based on Model Communication Protocol (MCP). 
 Upload documents (PDF, DOCX, CSV, etc.), ask questions, and get contextual answers powered by Groq (LLaMA3) and FAISS-based retrieval using HuggingFace embeddings.
